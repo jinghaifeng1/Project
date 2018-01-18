@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 
 
 
-#程序基本信息
+#程序基本信息.
 AboutStr="易搜磁链\n\nVersion  :  1.0\n\n联系方式 :  shui_shan@foxmail.com\n\n                                                            by水山"
 
 
